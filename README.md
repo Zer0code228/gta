@@ -67,8 +67,7 @@
         <section id="home">
             <h2>Добро пожаловать!</h2>
             <p>GTA San Andreas — это культовая игра в жанре action-adventure, выпущенная в 2004 году. Погрузитесь в мир криминала, свободы и приключений в вымышленном штате Сан-Андреас.</p>
-            <img src="![Uploading image.png…]()
-" alt="Обложка игры GTA San Andreas" width="300">
+            <img src="<img width="900" height="562" alt="image" src="https://github.com/user-attachments/assets/75856f85-6ba1-43a4-91d5-95749769a77c" />" alt="Обложка игры GTA San Andreas" width="300">
         </section>
         <section id="about">
             <h2>Об игре</h2>
@@ -91,9 +90,9 @@
             <p><em>Внимание: использование чит‑кодов может заблокировать получение достижений.</em></p>
         </section>
       <h2>Скриншоты</h2>
-      <img src="assets/скрин1.jpg" width="300">
-      <img src="assets/скрин2.webp" width="300">
-      <img src="assets/скрин3.jpg" width="300">
+      <img src="<img width="900" height="562" alt="image" src="https://github.com/user-attachments/assets/f102527b-2cc0-486b-80c7-db643e07ff57" />" width="300">
+      <img src="<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/8a4073a8-edac-4bb9-b32e-a75933de1194" />" width="300">
+      <img src="<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/05ceb202-4422-4588-972f-21593c2f3e1a" />" width="300">
     </main>
     <footer>
         <p>&copy; 2026 GTA San Andreas Fan Site. Все права защищены.Автор:Zer0code228</p>
