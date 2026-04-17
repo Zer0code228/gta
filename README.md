@@ -67,7 +67,8 @@
         <section id="home">
             <h2>Добро пожаловать!</h2>
             <p>GTA San Andreas — это культовая игра в жанре action-adventure, выпущенная в 2004 году. Погрузитесь в мир криминала, свободы и приключений в вымышленном штате Сан-Андреас.</p>
-            <img src="file:///C:/Users/User/Desktop/не%20удолять/MV5BOTYzMzg5MGUtNzhlZS00YWMzLTkwY2EtY2I2MjVmZDUzYjYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Обложка игры GTA San Andreas" width="300">
+            <img src="![Uploading image.png…]()
+" alt="Обложка игры GTA San Andreas" width="300">
         </section>
         <section id="about">
             <h2>Об игре</h2>
