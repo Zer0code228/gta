@@ -92,7 +92,7 @@
       <h2>Скриншоты</h2>
       <img src="скрин1.jpg" width="300">
       <img src="скрин2.webp" width="300">
-      <img src="скрин3.jpg" width="300">
+        <img src="скрин3.jpg" width="300">
     </main>
     <footer>
         <p>&copy; 2026 GTA San Andreas Fan Site. Все права защищены.Автор:Zer0code228</p>
